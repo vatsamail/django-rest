@@ -6,6 +6,8 @@
 ## Notes:
 * All the mini projects are developed using 3.6.5 version
 * The mini projects are located in sub folders
+* Every mini project will contain its own set of requirements.txt (pip freeze) and db.sqlite3 database file
+* Every mini project needs a superuser. I have used Username(admin), Email(), Password(superuser)
 * The mini projects do not contain explicit documentation. The generic README.md and knowledge of Django should help you to understand the flow without any hassle.
 * If you are new to Django, please refer to the following links
 
@@ -22,5 +24,7 @@
 2. **[django_rest_todos](https://github.com/vatsamail/django-rest/tree/master/django_rest_todos)**
 * Talks about how to deploy rest as an independent API
 * You will be introduced to the much simpler viewsets on a very simple model (todo list)
-* Learning time - 30 minutes
-3. **[drf_auth]()**
+* Learning time - 30 minutes (or +10 minutes from the provious tutorial)
+3. **[drf_auth](https://github.com/vatsamail/django-rest/tree/master/drf_auth)**
+* By using independent CRUD API the tutorial will teach the curl operations, and portal authentication
+* Learning time - 30 minutes (or +10 minutes from the provious tutorial)
