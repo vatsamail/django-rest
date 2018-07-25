@@ -1,0 +1,9 @@
+"""
+Commands that should be executed on your Linux/Windows machine
+"""
+
+# getting the data
+>curl http://localhost:8000/api/v1/
+
+# posting the data
+>curl -X POST http://localhost:8000/api/v1/ -d "title=Curl&description=Curling is a robust simple testing"
