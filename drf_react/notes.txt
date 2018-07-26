@@ -1,0 +1,26 @@
+* complete django installation is in the 'todo/backend/' subfolder
+* Find the pip install file at 'todo/backend/requirements.txt'
+* frontend installations
+ - npm install -g create-react-app
+* To create the frontend folder use the below commands
+ - >create-react-app frontend
+ - >cd frontend
+ - >npm start
+ - Check the react host -  http://localhost:3000/
+ - write App.js
+
+Note: Make sure you keep the django server running when you run the react server
+
+############# npm commands
+npm start
+  Starts the development server.
+
+npm run build
+  Bundles the app into static files for production.
+
+npm test
+  Starts the test runner.
+
+npm run eject
+  Removes this tool and copies build dependencies, configuration files
+  and scripts into the app directory. If you do this, you can’t go back!

@@ -1,6 +1,6 @@
 # django-rest
-### This folder contains couple of mini projects that will help you to deal with django-REST API development easily
-> I thank Django & Rest API official websites along with many individual blogs, youtube channels, relavent stackoverflow and google links that enabled me to develop these toy projects for the purpose of learning.  -[Vatsa](vatsamail@gmail.com)
+### This folder contains couple of mini projects that will help you to deal with Django-REST API development easily
+> I thank Django & Rest API official websites along with many individual blogs, Youtube channels, relevant Stackoverflow and google links that enabled me to develop these toy projects for the purpose of learning.  -[Vatsa](vatsamail@gmail.com)
 
 ****
 ## Notes:
@@ -24,7 +24,13 @@
 2. **[django_rest_todos](https://github.com/vatsamail/django-rest/tree/master/django_rest_todos)**
 * Talks about how to deploy rest as an independent API
 * You will be introduced to the much simpler viewsets on a very simple model (todo list)
-* Learning time - 30 minutes (or +10 minutes from the provious tutorial)
+* Learning time - 30 minutes (or +10 minutes from the previous tutorial)
 3. **[drf_auth](https://github.com/vatsamail/django-rest/tree/master/drf_auth)**
 * By using independent CRUD API the tutorial will teach the curl operations, and portal authentication
-* Learning time - 30 minutes (or +10 minutes from the provious tutorial)
+* Learning time - 30 minutes (or +10 minutes from the previous tutorial)
+4. **[drf_social_auth](https://github.com/vatsamail/django-rest/tree/master/drf_social_auth)**
+* The tutorial will teach the usage of login/logout and more importantly a registration form through REST api using an example as 'users'
+* Learning time - 30 minutes (or +10 minutes from the previous tutorial)
+5. **[drf_react](https://github.com/vatsamail/django-rest/tree/master/drf_react)**
+* The tutorial will look into the way to connect to the react. It will also assist you to install react. Prior knowledge of react is not required.
+* Learning time - 45 minutes (or +20 minutes from the previous tutorial)
